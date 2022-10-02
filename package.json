@@ -1,0 +1,22 @@
+{
+  "name": "niq",
+  "version": "0.1.0",
+  "description": "A tool to query npm packages",
+  "main": "index.mjs",
+  "dependencies": {
+    "kleur": "^3.0.3",
+    "sisteransi": "^1.0.5",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shell",
+    "node",
+    "npm"
+  ],
+  "author": "Cheng-DX",
+  "license": "MIT"
+}
