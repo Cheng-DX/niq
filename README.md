@@ -7,7 +7,7 @@
 ## Usage
 ```sh
 npm i -g zx # must
-npm i -g ni # recommendedm or change the 22 line in index into `npm install`
+npm i -g ni # recommended or change the 22 line in index into `npm install`
 ```
 ```sh
 zx index.mjs react # query about react
